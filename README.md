@@ -19,8 +19,7 @@
   </table>
 
 <h2 align="center"> :toolbox: Ingredients :toolbox: </h2>
-<p align= "center"><br>
-
+<p align= "center">
 <table width="100%"> 
   <tr>
   <td width="50%">
@@ -39,7 +38,7 @@
   <a href="https://aws.amazon.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
   <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
   <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-  <a href="https://www.ros.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="robot-operating-system" width="60" height="60"/></a>
+  <a href="https://www.ros.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="robot-operating-system" width="80" height="80"/></a>
   </td>
   
   <td width="50%">
