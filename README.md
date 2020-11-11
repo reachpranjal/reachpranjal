@@ -1,10 +1,10 @@
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Pranjal</h1>
-<h3 align="center">:robot: A Fanatic Roboticist from India :robot: </h3>
+<h3 align="center">:robot: A Fanatic Roboticist from India :robot:</h3>
 
 <table width="100%"> 
   <tr>
   <td width="50%">
-    
+
 - 🔭 Currently working on **Visual SLAM**
 - 🌱 Currently learning **Computer Vision**
 - 👯 Let's Collaborate on **Robot Software Development**
@@ -63,12 +63,12 @@
   </td>
   </table>
 
-<br>
 <h2 align="center">:chart_with_upwards_trend: GitHub Stats :chart_with_upwards_trend:</h2>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=reachpranjal&show_icons=true&hide=stars&theme=tokyonight&locale=en" alt="reachpranjal"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reachpranjal&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="reachpranjal" />
 </p>
+
 
 <h2 align="center">:computer: Connect with me :computer:</h2>
 <p align="center"><br>
