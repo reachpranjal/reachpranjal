@@ -1,4 +1,4 @@
-<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Pranjal</h1>
+<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Pranjal Paul</h1>
 <h2 align="center">:robot: A Fanatic Roboticist from India :robot:</h2>
 
 <table width="100%"> 
