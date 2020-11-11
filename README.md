@@ -72,7 +72,7 @@
 
 
 <h2 align="center">:computer: Connect with me :computer:</h2>
-<p align="center"><br>
+<p align="center">
 <a href="https://linkedin.com/in/reach-pranjal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="reach-pranjal" height="30" width="40" /></a>
 <a href="https://mail.google.com/mail/u/?authuser=reachpranjal19@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/24973/gmail.svg" alt="email" height="30" width="40" /></a>
 <a href="https://reachpranjal.github.io" target="blank"><img align="center" src="https://svgsilh.com/svg/1873373.svg" alt="mywebsite" height="30" width="40" /></a>
