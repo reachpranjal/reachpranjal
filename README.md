@@ -18,6 +18,7 @@
   </td>
   </table>
 
+<!--
 <h2 align="center"> :toolbox: Ingredients :toolbox: </h2>
 <p align= "center">
 <table width="100%"> 
@@ -40,7 +41,8 @@
   <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
   <a href="https://www.ros.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="robot-operating-system" width="50" height="50"/></a>
   </td>
-  
+-->
+<!--
   <td width="50%">
   <p align="center">
   <a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
@@ -61,7 +63,7 @@
   <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
     </tr>
     </table>
-
+-->
 <h2 align="center">:chart_with_upwards_trend: GitHub Stats :chart_with_upwards_trend:</h2>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=reachpranjal&show_icons=true&hide=stars&theme=tokyonight&locale=en" alt="reachpranjal"/>
