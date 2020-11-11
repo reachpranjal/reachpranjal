@@ -47,11 +47,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=reachpranjal&show_icons=true&hide=stars&theme=tokyonight&locale=en" alt="reachpranjal"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reachpranjal&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="reachpranjal" />
 </p>
-
+<br>
 <h2 align="center">:computer: Connect with me :computer:</h2>
-<p align="center">
+<p align="center"><br>
 <a href="https://linkedin.com/in/reach-pranjal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="reach-pranjal" height="30" width="40" /></a>
-<a href=" https://mail.google.com/mail/u/?authuser=reachpranjal19@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/24973/gmail.svg" alt="email" height="30" width="40" /></a>
+<a href="https://mail.google.com/mail/u/?authuser=reachpranjal19@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/24973/gmail.svg" alt="email" height="30" width="40" /></a>
 <a href="https://reachpranjal.github.io" target="blank"><img align="center" src="https://svgsilh.com/svg/1873373.svg" alt="mywebsite" height="30" width="40" /></a>
 <a href="https://instagram.com/featuredengineer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/instagram.svg" alt="featuredengineer" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pranjalpaul_git" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="pranjalpaul_git" height="30" width="40" /></a>
