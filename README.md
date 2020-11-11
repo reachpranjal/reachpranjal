@@ -1,26 +1,93 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Pranjal</h1>
+<h3 align="center">:robot: A Fanatic Roboticist from India :robot: </h3>
 
-<!--
-**reachpranjal/reachpranjal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on Visual Odometry
-- 🌱 I’m currently learning Computer Vision and Deep Learning
-- 👯 I’m looking to collaborate on Robot Navigation Software
-- ⚡ Fun fact: I consume 13 cups of tea daily
+- 🔭 I’m currently working on **Visual SLAM**
+- 🌱 I’m currently learning **Computer Vision**
+- 👯 I’m looking to collaborate on- **Robotics Navigation Software Development**
+- 👨‍💻 All of my projects are available at my [Website](https://reachpranjal.github.io)
+- 💬 Ask me about **Robotics and AI**
+- 📫 Reach me- **reachpranjal19@gmail.com**
+- ⚡ Fun fact- **I consume 8-10 cups of tea daily !**
 
-## :desktop_computer: Technologies and Tools 
-![](https://img.shields.io/badge/OS-Ubuntu-informational?style=plastic&logo=ubuntu&logoColor=white&color=2bbc8a) 
-![](https://img.shields.io/badge/IDE-VS_Code-informational?style=plastic&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=plastic&logo=python&logoColor=white&color=2bbc8a) 
-![](https://img.shields.io/badge/Code-C++-informational?style=plastic&logo=c%2b%2b&logoColor=white&color=2bbc8a)  
-![](https://img.shields.io/badge/Shell-Bash-informational?style=plastic&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=plastic&logo=digitalocean&logoColor=white&color=2bbc8a) 
-![](https://img.shields.io/badge/Tools-ROS-informational?style=plastic&logo=probot&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+<h2 align="left">Connect with me:</h2>
+<p align="left">
+<a href="https://linkedin.com/in/reach-pranjal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="reach-pranjal" height="30" width="40" /></a>
+<a href="https://instagram.com/featuredengineer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/instagram.svg" alt="featuredengineer" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/pranjalpaul_git" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="pranjalpaul_git" height="30" width="40" /></a>
+</p>
 
-## :chart_with_upwards_trend: GitHub Stats
-<img src = "https://github-readme-stats.vercel.app/api/?username=reachpranjal&&theme=tokyonight&show_icons=true&hide=stars"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reachpranjal&theme=tokyonight&layout=compact" /> 
-<!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=reachpranjal&layout=compact&theme=tokyonight (https://github.com/anuraghazra/github-readme-stats)">
--->
+## :computer: Tools and Technologies
+### Ingredients that makes me a Developer
+
+<h3 align="center"> Languages </h3>
+<p align="center">
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+
+<h3 align="center"> IDE </h3>
+<p align="center">
+  <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
+  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visual-studio-code" width="40" height="40"/> </a>
+  
+<h3 align="center"> Frontend Development </h3>
+<p align="center">
+ <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a>
+ <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+ <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+ <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a>
+
+<h3 align="center"> Database </h3>
+<p align="center">
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
+
+<h3 align="center"> DevOps </h3>
+<p align="center">
+  <a href="https://aws.amazon.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+  <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
+  <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+  <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
+</p>
+
+<h3 align="center"> AI/ML/DL </h3>
+<p align="center">
+  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
+  <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
+  <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
+
+<h3 align="center"> BaaS, API and Framework </h3> 
+<p align="center">
+  <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
+  <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
+  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
+  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+</p>
+
+<h3 align="center"> Scientific Tools </h3> 
+<p align="center">
+  <a href="https://www.mathworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="matlab" width="40" height="40"/> </a> 
+</p>
+
+<h3 align="center"> Designing Softwares </h3>
+<p align="center">
+       <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
+</p>
+
+<h3 align="center"> Game Engine </h3>
+<p align="center">
+  <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
+</p>
+
+<h3 align="center"> OS and Version Control </h3>
+<p align="center">
+  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+</p>
+
+## GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=reachpranjal&show_icons=true&hide=stars&theme=tokyonight&locale=en" alt="reachpranjal"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=reachpranjal&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="reachpranjal" />
