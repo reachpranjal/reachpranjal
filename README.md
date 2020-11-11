@@ -12,7 +12,7 @@
 - ⚡ Fun fact- **I consume 8-10 cups of tea daily !**
   </td>
 
-  <td width="50%"> <h3 align="center"> :musical_note: Currently Listening :musical_note: </h3>
+  <td width="50%">
 <br> [![Spotify](https://novatorem.reachpranjal.vercel.app/api/spotify)](https://open.spotify.com/user/as8w44xv7b95ds7grv2bjj54p)
 <br>
   </td>
