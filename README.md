@@ -9,7 +9,7 @@
 - 📫 Reach me- **reachpranjal19@gmail.com**
 - ⚡ Fun fact- **I consume 8-10 cups of tea daily !**
 
-<h2 align="center"> :computer: Ingredients </h2>
+<h2 align="center"> :toolbox: Ingredients </h2>
 <p align= "center"><br>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
@@ -48,9 +48,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reachpranjal&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="reachpranjal" />
 </p>
 
-<h2 align="center">:card_index: Connect with me</h2>
+<h2 align="center">:laptop: Connect with me</h2>
 <p align="center">
 <a href="https://linkedin.com/in/reach-pranjal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="reach-pranjal" height="30" width="40" /></a>
+<a href="https://reachpranjal.github.io" target="blank"><img align="center" src="https://svgsilh.com/svg/1873373.svg" alt="mywebsite" height="30" width="40" /></a>
 <a href="https://instagram.com/featuredengineer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/instagram.svg" alt="featuredengineer" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pranjalpaul_git" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="pranjalpaul_git" height="30" width="40" /></a>
 </p>
