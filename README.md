@@ -12,7 +12,6 @@
 <img src="https://img.shields.io/badge/Blender%20-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white&style=plastic"/>
 <img src="https://img.shields.io/badge/Unity%203D-%23100000.svg?&style=for-the-badge&logo=unity&logoColor=white&style=plastic"/>
 <img src="https://img.shields.io/badge/Jetson%20Nano-76b900.svg?&style=for-the-badge&logo=nvidia&logoColor=white&style=plastic"/>
-<img src="https://img.shields.io/badge/AWS%20-e47911.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white&style=plastic"/>
 </p>
 <table width="100%"> 
   <tr>
