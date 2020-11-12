@@ -78,4 +78,6 @@
 <a href="https://reachpranjal.github.io" target="blank"><img align="center" src="http://eightone.com.au/SVG/Website.svg" alt="mywebsite" height="30" width="40" /></a>
 <a href="https://instagram.com/featuredengineer" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg" alt="featuredengineer" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pranjalpaul_git" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="pranjalpaul_git" height="40" width="40" /></a>
+<a href="https://dev.to/reachpranjal">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Pranjal's DEV Profile" height="30" width="30"></a>
 </p>
