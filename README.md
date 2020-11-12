@@ -76,6 +76,7 @@
     </tr>
     </table>
 -->
+
 <h2 align="center">:chart_with_upwards_trend: GitHub Stats :chart_with_upwards_trend:</h2>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=reachpranjal&show_icons=true&hide=stars&locale=en" alt="reachpranjal"/>
