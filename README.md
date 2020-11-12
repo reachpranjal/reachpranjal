@@ -1,6 +1,19 @@
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Pranjal Paul</h1>
 <h2 align="center">:robot: A Fanatic Roboticist from India :robot:</h2>
-
+<p align="center">
+<!-- Badge Link used = https://github.com/alexandresanlim/Badges4-README.md-Profile -->
+<img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white&style=plastic"/>
+<img src="https://img.shields.io/badge/Python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white&style=plastic"/>
+<img src="https://img.shields.io/badge/C++%20-%23003791.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white&style=plastic"/>
+<img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&style=plastic"/>
+<img src="https://img.shields.io/badge/Ubuntu-dd4814?logo=ubuntu&logoColor=white&style=for-the-badge&style=plastic"/>
+<img src="https://img.shields.io/badge/CS%20Go-413a27.svg?&style=for-the-badge&logo=counter-strike&style=plastic"/>
+<img src="https://img.shields.io/badge/VS%20Code-%2300599C?logo=visual-studio-code&logoColor=white&style=for-the-badge&style=plastic"/>
+<img src="https://img.shields.io/badge/Blender%20-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white&style=plastic"/>
+<img src="https://img.shields.io/badge/Unity%203D-%23100000.svg?&style=for-the-badge&logo=unity&logoColor=white&style=plastic"/>
+<img src="https://img.shields.io/badge/Jetson%20Nano-76b900.svg?&style=for-the-badge&logo=nvidia&logoColor=white&style=plastic"/>
+<img src="https://img.shields.io/badge/AWS%20-e47911.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white&style=plastic"/>
+</p>
 <table width="100%"> 
   <tr>
   <td width="50%">
