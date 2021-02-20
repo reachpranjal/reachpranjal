@@ -17,7 +17,7 @@
   <tr>
   <td width="50%">
     
-- 🔭 Currently working on **Self-Driving Car*
+- 🔭 Currently working on **Self-Driving Car**
 - 🌱 Currently learning **Visual SLAM**
 - 👯 Let's Collaborate on **Robot Software Development**
 - 💬 Ask me about **Robotics, Embedded Systems, AI and Deep Learning**
