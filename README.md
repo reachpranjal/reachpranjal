@@ -17,10 +17,10 @@
   <tr>
   <td width="50%">
     
-- 🔭 Currently working on **Visual SLAM**
-- 🌱 Currently learning **Computer Vision**
+- 🔭 Currently working on **Self-Driving Car*
+- 🌱 Currently learning **Visual SLAM**
 - 👯 Let's Collaborate on **Robot Software Development**
-- 💬 Ask me about **Robotics, AI and Deep Learning**
+- 💬 Ask me about **Robotics, Embedded Systems, AI and Deep Learning**
   </td>
 
   <td width="50%">
