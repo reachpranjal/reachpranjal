@@ -84,7 +84,7 @@
 
 <h2 align="center">2020 GitHub Skyline</h2>
 <p align="center">
-  <img src="https://github.com/reachpranjal/Coursera-Cpp-for-C-programmers--PartA/blob/master/skyline.gif" />
+  <img src="https://github.com/reachpranjal/Coursera-Cpp-for-C-programmers--PartA/blob/master/githubskyline.gif" />
 </p>
 
 <h2 align="center">Connect with me</h2>
