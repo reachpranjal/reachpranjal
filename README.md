@@ -78,8 +78,8 @@
 
 <h2 align="center">:chart_with_upwards_trend: GitHub Stats :chart_with_upwards_trend:</h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=reachpranjal&show_icons=true&hide=stars&locale=en" alt="reachpranjal"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=reachpranjal&show_icons=true&locale=en&layout=compact" alt="reachpranjal" />
+<img src="https://github-readme-stats.vercel.app/api?username=reachpranjal&show_icons=true&hide=stars&locale=en&theme=radical" alt="reachpranjal"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=reachpranjal&show_icons=true&locale=en&layout=compact&theme=radical" alt="reachpranjal" />
 </p>
 
 
