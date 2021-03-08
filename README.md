@@ -17,7 +17,7 @@
   <tr>
   <td width="50%">
     
-- 🔭 Currently working on **Self-Driving Car**
+- 🔭 Currently working on **ADAS/AV**
 - 🌱 Currently learning **Visual SLAM**
 - 👯 Let's Collaborate on **Robot Software Development**
 - 💬 Ask me about **Robotics, Embedded Systems, AI and Deep Learning**
@@ -82,6 +82,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reachpranjal&show_icons=true&locale=en&layout=compact&theme=radical" alt="reachpranjal" />
 </p>
 
+<h2 align="center">2020 GitHub Skyline</h2>
+![](https://github.com/reachpranjal/Coursera-Cpp-for-C-programmers--PartA/blob/master/skyline.gif)
 
 <h2 align="center">:computer: Connect with me :computer:</h2>
 <p align="center">
