@@ -76,13 +76,18 @@
     </table>
 -->
 
-<h2 align="center">:chart_with_upwards_trend: GitHub Stats :chart_with_upwards_trend:</h2>
+<h2 align="center">GitHub Stats</h2>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=reachpranjal&show_icons=true&hide=stars&locale=en&theme=radical" alt="reachpranjal"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reachpranjal&show_icons=true&locale=en&layout=compact&theme=radical" alt="reachpranjal" />
 </p>
 
-<h2 align="center">:computer: Connect with me :computer:</h2>
+<h2 align="center">2020 GitHub Skyline</h2>
+<p align="center">
+  <img src="https://github.com/reachpranjal/Coursera-Cpp-for-C-programmers--PartA/blob/master/skyline.gif" />
+</p>
+
+<h2 align="center">Connect with me</h2>
 <p align="center">
 <a href="https://linkedin.com/in/reach-pranjal" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="reach-pranjal" height="30" width="40" /></a>
 <a href="https://mail.google.com/mail/u/?authuser=reachpranjal19@gmail.com" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/281/281769.svg" alt="email" height="30" width="40" /></a>
