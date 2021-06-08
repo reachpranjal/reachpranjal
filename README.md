@@ -1,5 +1,4 @@
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Pranjal Paul</h1>
-<h2 align="center">:robot: A Fanatic Roboticist from India :robot:</h2>
 <p align="center">
 <!-- Badge Link used = https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white&style=plastic"/>
