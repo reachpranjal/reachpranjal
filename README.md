@@ -1,9 +1,9 @@
 <!-- <h3 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Pranjal Paul</h3> -->
 <p align="center">
-  <a href="https://linkedin.com/in/reach-pranjal" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="reach-pranjal" height="20" width="30" /></a> |
-  <a href="https://mail.google.com/mail/u/?authuser=reachpranjal19@gmail.com" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/281/281769.svg" alt="email" height="20" width="30" /></a> |
+  <a href="https://linkedin.com/in/reach-pranjal" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="reach-pranjal" height="20" width="30" /></a>
+  <a href="https://mail.google.com/mail/u/?authuser=reachpranjal19@gmail.com" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/281/281769.svg" alt="email" height="20" width="30" /></a>
  <!-- <a href="https://reachpranjal.github.io" target="blank"><img align="center" src="https://visualpharm.com/assets/514/Website-595b40b65ba036ed117d43c7.svg" alt="mywebsite" height="30" width="40" /></a> -->
-  <a href="https://instagram.com/reachpranjal" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg" alt="featuredengineer" height="20" width="30" /></a> |
+  <a href="https://instagram.com/reachpranjal" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg" alt="featuredengineer" height="20" width="30" /></a>
   <a href="https://www.hackerrank.com/pranjalpaul_git" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="pranjalpaul_git" height="20" width="30" /></a> 
   <!--<a href="https://dev.to/reachpranjal"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Pranjal's DEV Profile" height="30" width="30">-->
   </a>
