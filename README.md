@@ -1,12 +1,12 @@
 <!-- <h3 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Pranjal Paul</h3> -->
 ![](banner.png)
 <p align="center">
-  <a href="https://linkedin.com/in/reach-pranjal" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="reach-pranjal" height="20" width="30" /></a>
-  <a href="https://mail.google.com/mail/u/?authuser=reachpranjal19@gmail.com" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/281/281769.svg" alt="email" height="20" width="30" /></a>
+  <a href="https://linkedin.com/in/reach-pranjal" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="reach-pranjal" /></a>
+  <a href="https://mail.google.com/mail/u/?authuser=reachpranjal19@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
  <!-- <a href="https://reachpranjal.github.io" target="blank"><img align="center" src="https://visualpharm.com/assets/514/Website-595b40b65ba036ed117d43c7.svg" alt="mywebsite" height="30" width="40" /></a> -->
-  <a href="https://instagram.com/reachpranjal" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg" alt="featuredengineer" height="20" width="30" /></a>
-  <a href="https://www.hackerrank.com/pranjalpaul_git" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="pranjalpaul_git" height="20" width="30" /></a> 
-  <a href="https://twitter.com/reachpranjal" target="blank"> <img align="center" src="https://image.flaticon.com/icons/png/512/124/124021.png" alt="reachpranjal" height="20" width="20" /></a>
+  <a href="https://instagram.com/reachpranjal" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="featuredengineer" /></a>
+  <a href="https://www.hackerrank.com/pranjalpaul_git" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="pranjalpaul_git" /></a> 
+  <a href="https://twitter.com/reachpranjal" target="blank"> <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="reachpranjal" /></a>
   <!--<a href="https://dev.to/reachpranjal"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Pranjal's DEV Profile" height="30" width="30">-->
   </a>
 </p>
