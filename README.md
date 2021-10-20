@@ -1,5 +1,5 @@
 <!-- <h3 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Pranjal Paul</h3> -->
-![](banner.png)
+![](gitbanner.png)
 <p align="center">
   <a href="https://linkedin.com/in/reach-pranjal" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="reach-pranjal" /></a>
   <a href="https://mail.google.com/mail/u/?authuser=reachpranjal19@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
