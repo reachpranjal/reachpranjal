@@ -1,16 +1,20 @@
 <!-- <h3 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Pranjal Paul</h3> -->
 ![](gitbanner.png)
-<p align="center">
-  <a href="https://linkedin.com/in/reach-pranjal" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="reach-pranjal" /></a>
-  <a href="https://mail.google.com/mail/u/?authuser=reachpranjal19@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
- <!-- <a href="https://reachpranjal.github.io" target="blank"><img align="center" src="https://visualpharm.com/assets/514/Website-595b40b65ba036ed117d43c7.svg" alt="mywebsite" height="30" width="40" /></a> -->
-  <a href="https://instagram.com/reachpranjal" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="featuredengineer" /></a>
-  <a href="https://www.hackerrank.com/pranjalpaul_git" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="pranjalpaul_git" /></a> 
-  <a href="https://twitter.com/reachpranjal" target="blank"> <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="reachpranjal" /></a>
-  <!--<a href="https://dev.to/reachpranjal"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Pranjal's DEV Profile" height="30" width="30">-->
-  </a>
-</p>
- 
+
+<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" height="260" />
+
+🏅 A fanatic Engineer majored in Automation and Robotics 🤖 <br>
+and insatiably curious about robots & technology 🧠 <br>    
+
+- Autonomous Vehicle Engineer [@L&T](https://www.ltts.com/)
+- Former ADAS Intern [@L&T](https://www.ltts.com/).
+- CAD Modelling [@Sensegrass Inc](https://www.sensegrass.com/) <br>
+
+📑 Let's discuss about Deep Learning, Computer Vision, Visual SLAM, Autonomous Vehicle, Control Systems
+
+:man_technologist: I speak: C/C#/C++, Python, ROS-1/2, MATLAB, React, JS <br>
+💻 Experiences: Unity-3D, Gazebo, LGSVL, CARLA, CarSim, CoppeliaSim <br>
+☁️ Cloud: AWS, Docker, Kubernetes, Azure, GCP
 
 <!--
 <table width="100%"> 
@@ -27,3 +31,14 @@
   </td>
 </table>
 -->
+<hr>
+<p align="center">
+  <a href="https://linkedin.com/in/reach-pranjal" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="reach-pranjal" /></a>
+  <a href="https://mail.google.com/mail/u/?authuser=reachpranjal19@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+ <!-- <a href="https://reachpranjal.github.io" target="blank"><img align="center" src="https://visualpharm.com/assets/514/Website-595b40b65ba036ed117d43c7.svg" alt="mywebsite" height="30" width="40" /></a> -->
+  <a href="https://instagram.com/reachpranjal" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="featuredengineer" /></a>
+  <!--<a href="https://www.hackerrank.com/pranjalpaul_git" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="pranjalpaul_git" /></a>--> 
+  <a href="https://twitter.com/reachpranjal" target="blank"> <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="reachpranjal" /></a>
+  <!--<a href="https://dev.to/reachpranjal"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Pranjal's DEV Profile" height="30" width="30">-->
+  </a>
+</p>
