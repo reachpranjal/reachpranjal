@@ -10,7 +10,7 @@ and insatiably curious about robots & technology 🧠 <br>
 - Former ADAS Intern [@L&T](https://www.ltts.com/).
 - CAD Designer [@Sensegrass Inc](https://www.sensegrass.com/) <br>
 
-📑 Let's discuss about Deep Learning, Computer Vision, Visual SLAM, Autonomous Vehicle, Control Systems <br>
+📑 Let's discuss about Deep Learning, Computer Vision, Autonomous Vehicle, Control Systems <br>
 
 - :man_technologist: I speak: C/C#/C++, Python, ROS-1/2, MATLAB, React, JS <br>
 - 💻 Experiences: Unity-3D, Gazebo, LGSVL, CARLA, CarSim, CoppeliaSim <br>
