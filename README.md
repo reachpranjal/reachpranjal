@@ -6,7 +6,8 @@
 🏅 A fanatic Engineer majored in Automation and Robotics 🤖 <br>
 and insatiably curious about robots & technology 🧠 <br>    
 
-- Autonomous Vehicle Engineer [@L&T](https://www.ltts.com/)
+- Currently a Research Fellow at [Robotics Research Centre (RRC), IIIT- Hyderabad](https://robotics.iiit.ac.in/)
+- Former Autonomous Vehicle Engineer [@L&T](https://www.ltts.com/)
 - Former ADAS Intern [@L&T](https://www.ltts.com/).
 - CAD Designer [@Sensegrass Inc](https://www.sensegrass.com/) <br>
 
