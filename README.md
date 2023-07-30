@@ -13,9 +13,9 @@ and insatiably curious about robots & technology 🧠 <br>
 
 📑 Let's discuss about Deep Learning, Computer Vision, Autonomous Vehicle, Control Systems <br>
 
-- :man_technologist: I speak: C/C#/C++, Python, ROS-1/2, MATLAB, React, JS <br>
-- 💻 Experiences: Unity-3D, Gazebo, LGSVL, CARLA, CarSim, CoppeliaSim <br>
-- ☁️ Cloud: AWS, Docker, Kubernetes, Azure, GCP
+- :man_technologist: I speak: C/C++, Python, ROS, MATLAB <br>
+- 💻 Experiences: Gazebo, LGSVL, CARLA, CarSim, CoppeliaSim <br>
+- ☁️ Cloud: AWS, Docker, GCP
 
 <!--
 <table width="100%"> 
